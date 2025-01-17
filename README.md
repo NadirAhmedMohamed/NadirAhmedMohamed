@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙌🏽 , I'm Nadir Ahmed</h1>
-<h3 align="center">Joniour Frontend developer , React 🥷🏼</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7BE33&width=435&lines=Joniour+Frontend+developer+%2C+React%7C+" alt="Typing SVG" /></a>
 
 - 🌱 I’m currently focusing on **Frontend development in depth and practicing and evolve every day.**
 
