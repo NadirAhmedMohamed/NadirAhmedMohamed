@@ -80,9 +80,13 @@ A fully responsive e-commerce web application inspired by Amazon, built using **
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NadirAhmedMohamed&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NadirAhmedMohamed&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=NadirAhmedMohamed&show_icons=true&theme=tokyonight" />
+
+## 💻 Top Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadirAhmedMohamed&layout=compact&theme=tokyonight" />
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=NadirAhmedMohamed&theme=tokyonight)
 
