@@ -50,15 +50,11 @@ Task management app with state handling.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NadirAhmedMohamed&show_icons=true&theme=tokyonight" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NadirAhmedMohamed&theme=tokyonight" />
 
 ## 💻 Top Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadirAhmedMohamed&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NadirAhmedMohamed&theme=tokyonight" />
 
 ## 🔥 GitHub Streak
 
