@@ -37,58 +37,34 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 ## 🚀 Featured Projects
 
-## 🛒 Amazon Clone
-
-A fully responsive e-commerce web application inspired by Amazon, built using **React** and **Firebase**.
-
-### 🚀 Key Features
-
-* 🔐 User Authentication (Sign up / Sign in) using Firebase Authentication
-* 🛍️ Shopping Cart functionality (Add / Remove products)
-* 📦 Orders Page to display user purchase history
-* 🔄 Real-time data handling with Firebase
-* 📱 Fully responsive design for all devices
-* ⚡ Smooth user experience with React component-based architecture
-
-### 🛠️ Tech Stack
-
-* React.js
-* Firebase (Authentication & Database)
-* Context API / State Management
-* CSS / Responsive Design
-
-### 💡 Highlights
-
-* Clean and scalable frontend architecture
-* Secure login system with Firebase Auth
-* Persistent cart and orders functionality per user
-
+### 🛒 Amazon Clone
+React + Firebase e-commerce app with authentication, cart, and orders system.
 
 ### 📝 Blog System
-
-* Create, Edit and Manage Posts
-* Dynamic Content Rendering
-* React-based User Interface
+CRUD blog app built with React.
 
 ### ✅ To-Do App
-
-* Add, Edit and Delete Tasks
-* State Management
-* Responsive User Experience
+Task management app with state handling.
 
 ---
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=NadirAhmedMohamed&show_icons=true&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NadirAhmedMohamed&show_icons=true&theme=tokyonight" />
+</p>
 
 ## 💻 Top Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadirAhmedMohamed&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadirAhmedMohamed&layout=compact&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=NadirAhmedMohamed&theme=tokyonight)
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NadirAhmedMohamed&theme=tokyonight" />
+</p>
 
 ---
 
