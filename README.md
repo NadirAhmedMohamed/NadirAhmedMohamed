@@ -37,12 +37,32 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 ## 🚀 Featured Projects
 
-### 🛒 Amazon Clone
+## 🛒 Amazon Clone
 
-* Responsive E-commerce Frontend
-* Built with React and JavaScript
-* Component-based Architecture
-* Modern UI and Routing
+A fully responsive e-commerce web application inspired by Amazon, built using **React** and **Firebase**.
+
+### 🚀 Key Features
+
+* 🔐 User Authentication (Sign up / Sign in) using Firebase Authentication
+* 🛍️ Shopping Cart functionality (Add / Remove products)
+* 📦 Orders Page to display user purchase history
+* 🔄 Real-time data handling with Firebase
+* 📱 Fully responsive design for all devices
+* ⚡ Smooth user experience with React component-based architecture
+
+### 🛠️ Tech Stack
+
+* React.js
+* Firebase (Authentication & Database)
+* Context API / State Management
+* CSS / Responsive Design
+
+### 💡 Highlights
+
+* Clean and scalable frontend architecture
+* Secure login system with Firebase Auth
+* Persistent cart and orders functionality per user
+
 
 ### 📝 Blog System
 
