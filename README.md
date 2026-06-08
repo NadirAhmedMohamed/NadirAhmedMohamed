@@ -1,39 +1,85 @@
+# Hi 🙌🏽, I'm Nadir Ahmed
 
-<h1 align="center">Hi 🙌🏽 , I'm Nadir Ahmed</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7CA2B&width=435&lines=Junior+Frontend+Developer%2CReact%7C" alt="Typing SVG" /></a>
+### Frontend Developer | React.js 
 
-- 🌱 I’m currently focusing on **Frontend development in depth and practicing and evolve every day.**
+Passionate about building modern, responsive, and user-friendly web applications with React and JavaScript.
 
-- 🔎 I’m looking to collaborate on **Open source projects**
+---
 
-- 📫 How to reach me **Nader.a.j12@gmail.com**
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
+* 🎓 Information Technology Student (Semester 6)
+* 💻 Frontend Developer specializing in React.js
+* 🌱 Currently deepening my knowledge of Frontend Development and the modern React ecosystem
+* 🧠 Strong foundation in JavaScript, OOP, Data Structures & Algorithms
+* 🤝 Looking to collaborate on Open Source Projects
+* 📈 Always learning, building, and improving every day
+
+---
+
+## 💼 Skills & Tools
+
 <p align="left">
-<a href="https://instagram.com/wd_al7emody" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wd_al7emody" height="30" width="40" /></a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Material%20UI-0081CB?style=for-the-badge&logo=mui&logoColor=white"/>
+<img src="https://img.shields.io/badge/Responsive%20Design-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<h3 align="left">💼 Skills & Tools :</h3>
-<p align="left"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/React Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Hooks"/>
-<img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"/>
-<img src="https://img.shields.io/badge/RESTful API-006400?style=for-the-badge&logo=api&logoColor=white" alt="RESTful API"/>
+---
 
-<img src="https://img.shields.io/badge/Material UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI"/>
-<img src="https://img.shields.io/badge/Responsive Design-000000?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design"/>
-</p>
+## 🚀 Featured Projects
 
-🚀 Projects 
-Explore some of my featured work in the repositories or visit my [Portfolio](https://portfolio-nadirahmed.netlify.app/) for live demos.
+### 🛒 Amazon Clone
 
+* Responsive E-commerce Frontend
+* Built with React and JavaScript
+* Component-based Architecture
+* Modern UI and Routing
 
-📫 Contact 
+### 📝 Blog System
 
-- Email: nader.a.j12@gmail.com 
+* Create, Edit and Manage Posts
+* Dynamic Content Rendering
+* React-based User Interface
 
-- LinkedIn: https://www.linkedin.com/in/nadirahmed10 
+### ✅ To-Do App
 
-Thanks for visiting! 🙌
+* Add, Edit and Delete Tasks
+* State Management
+* Responsive User Experience
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NadirAhmed10\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NadirAhmed10\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🌐 Portfolio
+
+Portfolio Website:
+
+https://portfolio-nadirahmed.netlify.app/
+
+---
+
+## 📫 Connect With Me
+
+* Email: [nader.a.j12@gmail.com](mailto:nader.a.j12@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/nadirahmed10
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+
